@@ -1,0 +1,14 @@
+# Python (Arquivos temporários e ambiente virtual)
+venv/
+__pycache__/
+*.pyc
+
+# Node / React (Bibliotecas baixadas e builds)
+node_modules/
+dist/
+build/
+.env
+
+# Arquivos do Sistema Operacional
+.DS_Store
+Thumbs.db
